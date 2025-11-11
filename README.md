@@ -6,8 +6,9 @@ Our paper **“First Learn, Then Review: Human-like Continual Learning for Cross
 
 🧠 **Method**
 
-
-
+<p align="center">
+  <img src="./readme/framework.png" alt="Comparison Results" width="700">
+</p>
 
 ---
 
@@ -18,6 +19,10 @@ Our paper **“First Learn, Then Review: Human-like Continual Learning for Cross
 <p align="center">
   <img src="./readme/VIGOR.png" alt="Comparison Results" width="400">
 </p>
+<p align="center">
+  <img src="./readme/gener.png" alt="Comparison Results" width="800">
+</p>
+
 ---
 
 🚀 **Training**
