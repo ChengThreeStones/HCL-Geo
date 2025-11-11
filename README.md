@@ -8,10 +8,16 @@ Our paper **“First Learn, Then Review: Human-like Continual Learning for Cross
 
 
 
+
 ---
 
 📊 **Results**
-
+<p align="center">
+  <img src="./readme/CVUSA_CVACT.png" alt="Comparison Results" width="700">
+</p>
+<p align="center">
+  <img src="./readme/VIGOR.png" alt="Comparison Results" width="400">
+</p>
 ---
 
 🚀 **Training**
